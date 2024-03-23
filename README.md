@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥 Estudando Ciência da Computação<br>👩‍💻 Procuro Trabalhar com a área de BackEnd<br>👨‍🏫 Estudando GO, Python, C e Java<br>⚡ Jogo Valorant, CS, MSFS, entre outros. Sou piloto de aeromodelos, goleiro,<br>guitarrista, baterista e amador em tênis de mesa
+🖥 Estudando Ciência da Computação<br>👩‍💻 Procuro Trabalhar com a área de BackEnd e CyberSecurity<br>👨‍🏫 Estudando GO, Python, C, Java, Redes e protocolos<br>⚡ Jogo Valorant, CS, MSFS, entre outros. Sou piloto de aeromodelos, goleiro,<br>guitarrista, baterista e amador em tênis de mesa
 
 
 ## 🌐 Socials:
