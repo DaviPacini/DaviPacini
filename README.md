@@ -1,6 +1,8 @@
 # 💫 About Me:
 🖥 Estudando Ciência da Computação<br>👩‍💻 Procuro Trabalhar com a área de BackEnd e CyberSecurity<br>👨‍🏫 Estudando GO, Python, C, Java, C++, C#, Scheme, COBOL, Redes e protocolos<br>
 
+## [🌐 Meu portfólio](https://davipacini.github.io/port/)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davidsppacini) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-pacini-1b1530270/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/gcDSP) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DaviDPPacini1) 
 
