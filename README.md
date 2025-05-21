@@ -1,5 +1,7 @@
 # 💫 About Me:
-🖥 Estudando Ciência da Computação<br>👩‍💻 Procuro Trabalhar com a área de BackEnd e CyberSecurity<br>👨‍🏫 Estudando GO, Python, C, Java, C++, C#, Scheme, COBOL, Redes e protocolos<br>
+🖥 Estudando Ciência da Computação<br>👩‍💻 Procuro Trabalhar com a área de BackEnd e CyberSecurity<br>👨‍🏫 Estudando GO, Python, C, Java, C++, C#, Scheme, COBOL, Ruby, Mobile, Docker, Redes e protocolos<br>
+
+Analista de Infraestrutura Júnior no Banco Do Brasil pela Stefanini
 
 ## [🌐 Meu portfólio](https://davipacini.github.io/port/)
 
